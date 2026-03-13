@@ -11,7 +11,6 @@ import java.util.stream.Stream;
 
 public class DesafioMap {
     static void main(String[] args) {
-        Consumer<String> print = System.out::println;
         List<Integer> nums = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 90);
 
 
